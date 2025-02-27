@@ -10,10 +10,14 @@ Sticker Maker – Convert images into WhatsApp stickers.
 Smeme – Generate sticker-format memes.
 Brat – (Requires further explanation).
 
-
 🔐 Owner-Only Features
-addprem – Grant premium access to a user.
-delprem – Revoke premium access from a user.
+
+```
+addprem • Grant premium access to a user.
+```
+```
+delprem • Revoke premium access from a user.
+```
 
 
 📌 How to Use
