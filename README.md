@@ -28,12 +28,15 @@ delprem • Revoke premium access from a user.
 
 💻 Installation & Deployment
 To run your own instance of Mix-Bot, follow these steps:
-Prerequisites
-Ensure you have the following installed on your system:
+
+**Prerequisites
+Ensure you have the following installed on your system:**
+
+```
 Node.js (latest stable version)
 npm (Node Package Manager)
 Git
-
+```
 Installation Steps
 # Clone the repository
 
@@ -44,7 +47,7 @@ git clone https://github.com/xeyyzu/Mix-Bot.git
 # Navigate to the project directory
 
 ```
-cd cd Mix-Bot
+cd Mix-Bot
 ```
 
 # Install dependencies
@@ -101,8 +104,12 @@ We welcome contributions! Feel free to fork this repository, submit pull request
 
 📞 Contact
 For inquiries, support, or collaboration, reach out to:
+
+
 📩 Contact: info@baynnniq.biz.id
 
 # DISCLAIMER
 ***Creator: TanakaDomp***
+
+
 ***Remaker: xeyyzu***
